@@ -127,8 +127,8 @@ Evaluates service quality and customer satisfaction levels.
 **Shanmukh Bandaru**  
 Aspiring Data Analyst  
 
-- LinkedIn: (Add your LinkedIn URL)
-- GitHub: (Add your GitHub URL)
+- LinkedIn: www.linkedin.com/in/shanmukh-bandaru-b89b7230a
+- GitHub: https://github.com/Shanmukh-04
 
 ---
 
